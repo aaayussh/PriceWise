@@ -8,12 +8,17 @@ Developed using Next.js and Bright Data's webunlocker, this e-commerce product s
 ## <a name="tech-stack">* Tech Stack</a>
 
 - Next.js
-- Bright Data
-- Cheerio
-- Nodemailer
-- MongoDB
-- Headless UI
 - Tailwind CSS
+- MongoDB
+- Nodemailer
+- Cheerio
+- Bright Data
+- Headless UI
+
+
+
+
+
 
 ## <a name="features">* Features</a>
 
